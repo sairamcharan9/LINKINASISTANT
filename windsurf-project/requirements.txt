@@ -1,0 +1,5 @@
+google-adk
+langchain
+python-dotenv
+requests
+
